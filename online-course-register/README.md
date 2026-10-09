@@ -1,4 +1,4 @@
-# DI 502 Learning Resources
+# DI 502: Online Course Register
 
 ## Sprint 1 fundamentals
 

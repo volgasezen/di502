@@ -66,17 +66,17 @@ If you are not familiar with Git and GitHub, such as using issues, pull requests
 
 - [ ] [Project Canvas](Markdown Template/README.md) : Scope, Milestones, Assumptions & Constraints, Deliverables and Project Organization
 - [ ] User stories in Jira (you may plan them in Miro first, but this is optional)
-- [ ] Spike notes in `docs/spikes/`
+- [ ] Learning spike notes in `docs/spikes/`
 
 **Your tasks**
 
+- [ ] Check the *Sprint 1 fundamentals* table in [Online Course Register](online-course-register/README.md/#sprint-1-fundementals) individually and plan how to close your gaps. Git and Jira courses are important for this week but plan ahead as well.
 - [ ] Create your team repository from the course template (Use this template) and your Jira project.
-- [ ] Assign the Scrum roles, including the Product Owner for Sprint 1.
 - [ ] Revise your topic and scope based on the feedback from Week 2.
+- [ ] Assign the Scrum roles, including the Product Owner for Sprint 1.
 - [ ] Choose your document sources and check their terms of use and licences.
-- [ ] Check the *Sprint 1 fundamentals* table in [Online Course Register](online-course-register/README.md) individually and plan how to close your gaps.
 
-**Presentation (15 minutes):** After completing this week's tasks, each team presents their repository and Jira setup, the Scrum roles, the revised topic and scope, the document sources and the charter draft.
+**Presentation (10 minutes):** Each team presents, repository, charter draft and Jira setup, the Scrum roles, the revised topic and scope, and the document sources.
 
 ---
 
@@ -84,12 +84,13 @@ If you are not familiar with Git and GitHub, such as using issues, pull requests
 
 - [ ] [Project Canvas](Markdown Template/README.md): Major Activities, Dependencies, Facilities and Resources, Release Plan, Risks
 - [ ] Updated user stories in Jira
-- [ ] Spike notes in `docs/spikes/`
+- [ ] Learning spike notes in `docs/spikes/`
 
 **Your tasks** (Checklist not yet completed)
 
 - [ ] Iterate on user stories based on feedback from Week 3.
-- [ ] Design an initial version of your system architecture diagram (i.e. which technologies will be chosen and how they will connect)
+- [ ] Design initial versions of your system architecture diagram and design document (i.e. which technologies will be chosen and how they will connect)
+
 
 ### Week 5 — 21/10 · End of Sprint 1
 

@@ -7,9 +7,10 @@ This repository holds the markdown templates for your project documentation as w
 - [How to start on Confluence](#how-to-start-on-confluence)
   - [Adding reviewer accounts](#adding-reviewer-accounts)
   - [Setting up Github actions workflow for Confluence integration](#setting-up-github-actions-workflow-for-confluence-integration)
+- [Instructions on User Story Mapping and Sprint Planning](#instructions-on-user-story-mapping-and-sprint-planning)
 - [How to start on Jira](#how-to-start-on-jira)
-  - [Instructions on Jira Usage, User Story Mapping and Sprint Planning](#instructions-on-jira-usage-user-story-mapping-and-sprint-planning)
-  - [Additional resources on Agile/Scrum](#additional-resources-on-agilescrum)
+  - [Instructions on Jira Usage](#instructions-on-jira-usage)
+- [Additional resources on Agile/Scrum](#additional-resources-on-agilescrum)
 
 ## How to start on Confluence
 
@@ -17,11 +18,11 @@ Below is an updated guide on how to set up your Confluence space and invite your
 
 1. Ideally create a new Confluence instance using this [link](https://www.atlassian.com/try/cloud/signup?bundle=confluence&edition=free) if you have not created one.
 2. Copy the link provided to invite your team members and us onto your Confluence space. (Link is valid for 30 days.) If you skip that step, you can manually invite members as such:
-  1. Invite other collaborators from this link: **`[group_name].atlassian.net/admin/users`**
-  2. To add them to your space, visit "space settings" for your project.
-  3. Under space permissions click "users".
-  4. Click "edit" and search for internal users. Add each collaborator.
-  5. For each, click select all for permissions.
+    1. Invite other collaborators from this link: **`[group_name].atlassian.net/admin/users`**
+    2. To add them to your space, visit "space settings" for your project.
+    3. Under space permissions click "users".
+    4. Click "edit" and search for internal users. Add each collaborator.
+    5. For each, click select all for permissions.
 
 ### Adding reviewer accounts
 
@@ -53,6 +54,18 @@ Whether you choose to send an invite link, or invite manually, please send a rem
     * `CONFLUENCE_SPACE_KEY`: `KEY` in /wiki/spaces/<KEY>/… 
     * `DOCS_DIR`: `docs/Markdown Template` (Directory where the template lives in)
 
+## Instructions on User Story Mapping and Sprint Planning
+
+We recommend these resources if you haven't drafted a user story before:
+
+* [User stories with examples and a template [Atlassian]](https://www.atlassian.com/agile/project-management/user-stories)
+* [User stories [Ben Baumer, 5:31]](https://smith.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2e293ab4-9faf-4550-8f94-acd8011132b1)
+
+> [!TIP]
+> We highly recommend using these collaborative tools:
+> * [Miro](https://miro.com/) for user story mapping to identify which features are needed for your application,
+> * [Scrum Powder - Sprint Planning](https://scrumpowder.com/planning) for story point estimation with poker planning and
+> * [Scrum Powder - Retro](https://scrumpowder.com/retro) for having sprint retrospectives.
 
 ## How to start on Jira
 
@@ -62,9 +75,10 @@ Whether you choose to send an invite link, or invite manually, please send a rem
 4. Set up your backlog to include four sprints that span the course.
 5. Invite us and your team members to the Jira space in a similar manner.
 
-### Instructions on Jira Usage, User Story Mapping and Sprint Planning
+### Instructions on Jira Usage
 
-Visit [User stories with examples and a template](https://www.atlassian.com/agile/project-management/user-stories) if you haven't drafted a user story before. 
+> [!TIP]
+> We recommend taking at least one Jira course from those linked in Sprint 1 Fundementals of the [Online Course Register](online-course-register/README.md/#sprint-1-fundementals).
 
 Once you create user stories and tasks associated with them, make sure to:
 
@@ -75,13 +89,7 @@ Once you create user stories and tasks associated with them, make sure to:
 > [!WARNING]
 > We don't recommend adding "subtasks" to divide big tasks as they cannot have story points and thus cannot be tracked. Make sure each task can be completed in one sprint (3 weeks) at most and by one member at least.
 
-> [!TIP]
-> We highly recommend using these collaborative tools:
-> * [Miro](https://miro.com/) for user story mapping to identify which features are needed for your application,
-> * [Scrum Powder - Sprint Planning](https://scrumpowder.com/planning) for story point estimation with poker planning and
-> * [Scrum Powder - Retro](https://scrumpowder.com/retro) for having sprint retrospectives.
-
-### Additional resources on Agile/Scrum
+## Additional resources on Agile/Scrum
 To be more familiar with Scrum framework, or Agile practices, be sure to check out the following websites and videos:
 
 * https://www.atlassian.com/agile/scrum
